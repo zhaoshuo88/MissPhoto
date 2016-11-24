@@ -7,7 +7,7 @@
     tools:context="com.example.administrator.missphoto.MainActivity"
     android:background="#535151"
     android:weightSum="1">
-    //硕硕修改。。。。。
+    //硕硕修改。。。。。ooo
     <LinearLayout
 
         android:layout_width="match_parent"
